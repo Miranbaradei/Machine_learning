@@ -21,7 +21,8 @@ This repository contains Jupyter Notebooks focused on **healthcare data preproce
 - **Visualizations**
   - Line charts showing **number of records per specialty over time**.
   - Specialty distribution analysis, including “Other” category filtering.
-
+### 3. `HeartPrediction.ipynb`
+Healthcare analytics and prediction using machine learning. Includes revenue and specialty analysis plus heart disease risk prediction with patient data. Covers preprocessing, visualization, and model training with pandas, seaborn, and ML algorithms.
 ## Key Features
 - **Data Cleaning:** Handling null values, standardizing text fields, and ensuring consistent formats.
 - **Exploratory Analysis:** Pairwise scatter plots, time-series revenue trends, and specialty-based distributions.
